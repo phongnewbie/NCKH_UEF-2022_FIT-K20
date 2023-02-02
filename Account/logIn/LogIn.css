@@ -1,18 +1,16 @@
 body,
 html {
   background-image: url(../img/UEF_1.png);
-  background-size: cover;
+  background-size: contain;
 
   background-attachment: fixed;
   background-repeat: no-repeat;
-  padding: 0;
-  margin: 0;
 }
 
 .login-box-block {
-  margin-left: 200px;
+  margin-left: 170px;
+  margin-top: 50px;
 }
 .s-login-box {
-  width: 500px;
   height: 600px;
 }

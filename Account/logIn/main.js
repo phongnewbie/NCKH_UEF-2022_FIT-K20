@@ -7,8 +7,8 @@ document.getElementById("loginbtn").onclick = function(isAdd){
     var userName = getEle("username").value;
     var passWord = getEle("passWord").value;
     var isValid = true;
-    if(userName == "a" && passWord == "b"){
-        window.location.href="/index.html"
+    if(userName == "205051621" && passWord == "Revolutions2608"){
+        window.location.href="../MainPage/index.html"
     }else{
         alert("Tài Khoản hoặc mật khẩu sai")
     }
