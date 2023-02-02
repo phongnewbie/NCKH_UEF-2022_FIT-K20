@@ -49,7 +49,7 @@ let data =
       
      ]
      document.getElementById("logOut").onclick = function(){
-        window.location.href="/Account/logIn/LogIn.html"
+        window.location.href="../logIn/index.html"
     }
     
     function renderTable(displayInfo){
